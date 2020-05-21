@@ -1,7 +1,10 @@
 # Campus-Learning-Program--Lowes-India
-A**User Authentication Portal** created using **Express and MongoDB** as a part of **Lowes India 2020 Campus Learning Program** by **Hitesh Kumar(NIT Srinagar) and Shweta Charde(VNIT Nagpur)**
+A **User Authentication Portal** created using **Express and MongoDB** as a part of **Lowes India 2020 Campus Learning Program** by **Hitesh Kumar(NIT Srinagar) and Shweta Charde(VNIT Nagpur)**
 
 A user authentication app created using Express and UI designed by using simple html and css having the database connectivity.
+
+![](pics/Screenshot%20(94).png)
+
 
 To start the project just open your command line.
 
